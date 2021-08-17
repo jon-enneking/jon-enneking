@@ -3,8 +3,14 @@
 -  I am currently learning:
     + How to use git/github...
     + Advanced Java
+        * Data Structures
+        * Game-Design  
     + Python
+        * OOP
+        * Data Structures
+        * Game-Design
     + SQL
+    + Node.js
     
 - You will find random projects that I am working on here using the concepts that I am learning.
 
